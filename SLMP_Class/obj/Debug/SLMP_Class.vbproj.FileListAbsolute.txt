@@ -1,0 +1,10 @@
+C:\Users\D90-045\Desktop\SLMP_Class\SLMP_Class\bin\Debug\SLMP_Class.exe
+C:\Users\D90-045\Desktop\SLMP_Class\SLMP_Class\bin\Debug\SLMP_Class.pdb
+C:\Users\D90-045\Desktop\SLMP_Class\SLMP_Class\bin\Debug\SLMP_Class.xml
+C:\Users\D90-045\Desktop\SLMP_Class\SLMP_Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\D90-045\Desktop\SLMP_Class\SLMP_Class\obj\Debug\SLMP_Class.Form1.resources
+C:\Users\D90-045\Desktop\SLMP_Class\SLMP_Class\obj\Debug\SLMP_Class.Resources.resources
+C:\Users\D90-045\Desktop\SLMP_Class\SLMP_Class\obj\Debug\SLMP_Class.vbproj.GenerateResource.Cache
+C:\Users\D90-045\Desktop\SLMP_Class\SLMP_Class\obj\Debug\SLMP_Class.exe
+C:\Users\D90-045\Desktop\SLMP_Class\SLMP_Class\obj\Debug\SLMP_Class.xml
+C:\Users\D90-045\Desktop\SLMP_Class\SLMP_Class\obj\Debug\SLMP_Class.pdb
